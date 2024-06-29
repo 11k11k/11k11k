@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/python
+- 💬 Ask me about anything related to Java/python/vue
 - 📫 How to reach me: 1041528020@qq.com
 - 😄 Read more about my blog:
 
